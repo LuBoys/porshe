@@ -1,20 +1,20 @@
 # porshe
 
-Site vitrine de demonstration autour de l'univers Porsche, realise comme support de presentation pour mes clients.
+Demo showcase website inspired by the Porsche universe, created as a presentation piece for clients.
 
-## Apercu
+## Preview
 
-![Apercu du site](./docs/preview.png)
+![Website preview](./docs/preview.png)
 
-## Objectif
+## Purpose
 
-Ce projet presente une direction artistique automobile, une ambiance premium et un exemple de site editorial inspire de l'univers Porsche.
+This project presents an automotive art direction, a premium atmosphere, and an editorial-style website inspired by the Porsche universe.
 
-## Positionnement
+## Positioning
 
-- projet de demonstration frontend
-- site de fan non officiel
-- support de presentation pour montrer mon travail a des clients
+- frontend demonstration project
+- unofficial fan website
+- presentation piece to showcase my work to clients
 
 ## Stack
 
@@ -22,7 +22,7 @@ Ce projet presente une direction artistique automobile, une ambiance premium et 
 - TypeScript
 - Vite
 
-## Lancement en local
+## Run locally
 
 ```bash
 npm install
@@ -31,4 +31,6 @@ npm run dev
 
 ## Note
 
-Ce projet est un site de fan et de presentation. Il n'a aucun lien officiel avec Porsche.
+This project is a fan and presentation website. It has no official connection with Porsche.
+
+If you like this project and want to use it, please leave a star on the repository.
